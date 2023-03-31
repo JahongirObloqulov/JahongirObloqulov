@@ -22,7 +22,6 @@
 <img src="https://github.com/JahongirObloqulov/JahongirObloqulov/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=JahongirObloqulov&pretty=true)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
