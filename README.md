@@ -12,6 +12,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JahongirObloqulov&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JahongirObloqulov&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## Latest Tweet 🐦  
+[![](https://gtce.itsvg.in/api?username=JahongirObloqulov&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/JahongirObloqulov/JahongirObloqulov/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=JahongirObloqulov&pretty=true)](https://visitcount.itsvg.in)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
