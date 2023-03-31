@@ -23,10 +23,11 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=JahongirObloqulov&pretty=true)](https://visitcount.itsvg.in)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JahongirObloqulov&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JahongirObloqulov&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
