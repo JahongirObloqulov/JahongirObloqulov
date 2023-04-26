@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=JahongirObloqulov&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JahongirObloqulov&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JahongirObloqulov&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8819b105-c823-44f0-8303-d0203731ff59/deploy-status)](https://app.netlify.com/sites/mirage007/deploys)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
